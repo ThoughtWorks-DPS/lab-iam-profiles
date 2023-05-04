@@ -97,9 +97,11 @@ DPS + abbrev pipeline name + Role
 
 examples:
 
+```
 arn:aws:iam::*:role/DPSIamProfilesRole  
 arn:aws:iam::*:role/DPSPlatformEksBaseRole  
 arn:aws:iam::*:role/DPSPlatformEksCoreServicesRole  
+```
 
 ## DataDog
 
